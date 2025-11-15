@@ -35,7 +35,7 @@ This analysis utilized Time-Series, Geographical, and Categorical segmentation t
 
 ## ⚙️ How to Interact with the Dashboard
 
-1.  Download the `Swiggy_Dashboard_Final.xlsx` file.
+1.  Download the https://github.com/as764994-droid/swiggy-sales-analysis-excel/blob/main/Swiggy%20Dashboard.xlsx file.
 2.  Open the file and **Enable Editing** (if prompted by Excel).
 3.  Navigate to the 'Dashboard' sheet.
 4.  Use the **Slicers** and **Timeline** controls to dynamically filter the data by Month, City, Restaurant, or Category to see the charts update in real-time.
